@@ -23,7 +23,7 @@ This script dynamically changes the dirt level of vehicles in FiveM, allowing pl
 - Use `/clean` to restore a vehicle to a clean state.
 
 ## Issues & Support
-If you encounter any issues or have feature suggestions, open an issue on the [GitHub repository](https://github.com/YourGitHub/car-dirt_script/issues).
+If you encounter any issues or have feature suggestions, open an issue on the [GitHub repository](https://github.com/SoloEvent/car-dirt-script/issues).
 
 ## License
 This script is released under the MIT License. You are free to modify and distribute it under the terms of the license.
